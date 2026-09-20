@@ -1,0 +1,5 @@
+
+AI Customer Support Agent
+Model: openai/gpt-oss-20b
+Provider: Groq
+Framework: LangChain + LangGraph
